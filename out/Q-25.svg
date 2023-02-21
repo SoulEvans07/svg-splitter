@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="483 328 20 20">
+  <g style="fill: #ffffff;" id="g16457" transform="translate(-285,478)" data-label="Q-25">
+    <g id="g7406-1-2-5" transform="translate(348,-290.004)" style="fill: #ffffff;">
+      <path id="path7416-1-8-5" style="color: rgb(0, 0, 0); fill: #ffffff; fill-rule: evenodd; stroke-linecap: round;" d="m 453,170 v 2 h -2.5 a 0.50005,0.50005 0 1 0 0,1 h 2.91992 a 0.50005,0.50005 0 0 0 0.16211,0 h 0.83789 a 0.50005,0.50005 0 0 0 0.16211,0 H 457.5 a 0.50005,0.50005 0 1 0 0,-1 H 455 v -2 z m -5.5,-11 a 0.50005,0.50005 0 0 0 -0.5,0.5 v 9 a 0.50005,0.50005 0 0 0 0.5,0.5 h 13 a 0.50005,0.50005 0 0 0 0.5,-0.5 v -9 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z m 0.5,1 h 12 v 8 h -12 z"></path>
+    </g>
+    <g style="opacity: 0.99; fill: #ffffff;" id="g16437" transform="matrix(-1,0,0,1,1460,228)">
+      <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-width: 0.9; stroke-linecap: round; stroke-linejoin: round;" d="m 520,349 c -0.54636,0 -1,0.45364 -1,1 0,0.54636 0.45364,1 1,1 0.54636,0 1,-0.45364 1,-1 0,-0.54636 -0.45364,-1 -1,-1 z m -4.50391,1.05078 c -0.16882,0.001 -0.32263,0.0972 -0.39843,0.24805 l -2.75,5.5 c -0.15067,0.29943 0.0671,0.65258 0.40234,0.65234 h 5.75 c 0.34173,-2.4e-4 0.55851,-0.36622 0.39453,-0.66601 l -3,-5.5 c -0.0795,-0.14558 -0.23258,-0.23538 -0.39844,-0.23438 z" transform="matrix(-1,0,0,1,1175,-706)" id="path16433"></path>
+    </g>
+  </g>
+</svg>

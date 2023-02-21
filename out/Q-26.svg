@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="503 328 20 20">
+  <g style="fill: #ffffff;" id="g16467" transform="translate(-222,478)" data-label="Q-26">
+    <g style="fill: #ffffff;" id="g12626-8" transform="translate(726,-499)">
+      <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linecap: round; stroke-linejoin: round; marker: none;" d="M 30.492188,367.99219 A 0.50005,0.50005 0 0 0 30,368.5 v 9.79297 l -2.853516,2.85351 a 0.50005,0.50005 0 1 0 0.707032,0.70704 L 30.707031,379 H 40.5 a 0.50005,0.50005 0 1 0 0,-1 H 31 v -9.5 a 0.50005,0.50005 0 0 0 -0.507812,-0.50781 z" id="path12205-4"></path>
+    </g>
+    <g transform="matrix(-1,0,0,1,1420,228)" id="g8805-9" style="opacity: 0.99; fill: #ffffff;">
+      <path style="color: rgb(0, 0, 0); opacity: 0.6; fill: #ffffff; fill-rule: evenodd; stroke-linecap: square; stroke-linejoin: round;" d="m 653.5,-359 a 0.50005,0.50005 0 0 0 -0.5,0.5 v 8 0.5 h 1 v -0.5 -7.5 h 7.5 0.5 v -1 h -0.5 z" id="path8743-5"></path>
+      <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-width: 0.9; stroke-linecap: round; stroke-linejoin: round;" d="m 542,349 c -0.54636,0 -1,0.45364 -1,1 0,0.54636 0.45364,1 1,1 0.54636,0 1,-0.45364 1,-1 0,-0.54636 -0.45364,-1 -1,-1 z m -3.48047,2.05078 c -0.16946,-0.008 -0.32881,0.0808 -0.41211,0.22852 l -2.25,4 c -0.17018,0.3004 0.0473,0.67264 0.39258,0.67187 h 4.5 c 0.34528,7.7e-4 0.56276,-0.37147 0.39258,-0.67187 l -2.25,-4 c -0.0765,-0.13552 -0.21755,-0.22152 -0.37305,-0.22852 z" transform="matrix(-1,0,0,1,1198,-706)" id="path8759-7"></path>
+    </g>
+  </g>
+</svg>

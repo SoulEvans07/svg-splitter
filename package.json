@@ -1,0 +1,29 @@
+{
+  "name": "csv-validation",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "Beerware",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "jsdom": "^21.1.0",
+    "xml-formatter": "^3.2.1",
+    "zod": "^3.20.6"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.0",
+    "@types/node": "^18.13.0",
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
+    "@typescript-eslint/parser": "^5.52.0",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.34.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}

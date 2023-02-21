@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="103 48 20 20">
+  <g transform="translate(-189,-42)" style="fill: #ffffff;" id="g17809-9" data-label="C-6">
+    <g id="g17552-8" transform="matrix(-1,0,0,1,508,-7e-5)" style="fill:#ffffff">
+      <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linecap: round; stroke-linejoin: round; marker: none;" d="m 201.49219,94.998047 a 0.50005,0.50005 0 0 0 -0.38867,0.195312 0.50005,0.50005 0 0 0 -0.006,0.0059 l -3.95118,3.953125 a 0.50005,0.50005 0 1 0 0.70704,0.707031 L 201,96.712891 v 8.792969 a 0.50005,0.50005 0 1 0 1,0 v -8.792969 l 3.14648,3.146484 a 0.50005,0.50005 0 1 0 0.70704,-0.707031 l -3.95508,-3.955078 a 0.50005,0.50005 0 0 0 -0.40625,-0.199219 z" id="path14327-2"></path>
+      <path style="color: rgb(0, 0, 0); opacity: 0.6; fill: #ffffff; stroke-linecap: round; stroke-linejoin: round; marker: none;" d="M 195.49219,104.99219 A 0.50005,0.50005 0 0 0 195,105.5 v 3 a 0.50005,0.50005 0 0 0 0.5,0.5 h 12 a 0.50005,0.50005 0 0 0 0.5,-0.5 v -3 a 0.50005,0.50005 0 1 0 -1,0 v 2.5 h -11 v -2.5 a 0.50005,0.50005 0 0 0 -0.50781,-0.50781 z" id="rect17542-1"></path>
+    </g>
+    <g id="g17548-0" transform="matrix(-1,0,0,1,508,-7e-5)" style="fill:#ffffff">
+      <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linecap: round; stroke-linejoin: round; marker: none;" d="M 222.49219,95.005859 A 0.50005,0.50005 0 0 0 222,95.511719 v 8.792971 l -3.14648,-3.14649 a 0.50005,0.50005 0 1 0 -0.70704,0.70703 l 3.95704,3.95704 a 0.50005,0.50005 0 0 0 0.79296,0.002 0.50005,0.50005 0 0 0 0.004,-0.006 l 3.95313,-3.95313 a 0.50005,0.50005 0 1 0 -0.70704,-0.70703 L 223,104.30469 v -8.792971 a 0.50005,0.50005 0 0 0 -0.50781,-0.50586 z" id="path14329-2"></path>
+      <path style="color: rgb(0, 0, 0); opacity: 0.6; fill: #ffffff; stroke-linecap: round; stroke-linejoin: round; marker: none;" d="M 216.49219,104.99219 A 0.50005,0.50005 0 0 0 216,105.5 v 3 a 0.50005,0.50005 0 0 0 0.5,0.5 h 12 a 0.50005,0.50005 0 0 0 0.5,-0.5 v -3 a 0.50005,0.50005 0 1 0 -1,0 v 2.5 h -11 v -2.5 a 0.50005,0.50005 0 0 0 -0.50781,-0.50781 z" id="path17546-9"></path>
+    </g>
+  </g>
+</svg>

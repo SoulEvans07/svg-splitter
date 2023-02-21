@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="123 528 20 20">
+  <g style="fill: #ffffff;" id="g25476" transform="translate(-20)" data-label="AA-7">
+    <g style="fill: #ffffff;" id="g25445" transform="translate(-218,-111)">
+      <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linecap: square; stroke-linejoin: round; marker: none;" d="m 301.5,305 c -0.82235,0 -1.5,0.67765 -1.5,1.5 v 5 c 0,0.82235 1,1.5 1.5,1.5 h 0.5 v -3 h -0.5 c -0.67616,0.01 -0.67616,-1.01 0,-1 h 11 c 0.67616,-0.01 0.67616,1.01 0,1 H 312 v 3 h 0.5 c 0.82235,0 1.5,-0.67765 1.5,-1.5 v -5 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 H 312 302 Z" transform="translate(70,363)" id="path25441"></path>
+      <path style="color: rgb(0, 0, 0); opacity: 0.7; fill: #ffffff; stroke-linejoin: round; marker: none;" d="m 135,562 v 8.5 c 3e-5,0.27613 0.22387,0.49997 0.5,0.5 h 7 c 0.27613,-3e-5 0.49997,-0.22387 0.5,-0.5 V 562 Z m 6,2 c 0.54636,0 1,0.45364 1,1 0,0.54636 -0.45364,1 -1,1 -0.54636,0 -1,-0.45364 -1,-1 0,-0.54636 0.45364,-1 1,-1 z m -2.50781,2 c 0.16994,-0.003 0.32953,0.0812 0.42383,0.22266 l 2,3 c 0.22142,0.33228 -0.0167,0.77726 -0.41602,0.77734 h -4 c -0.39932,-8e-5 -0.63744,-0.44506 -0.41602,-0.77734 l 2,-3 c 0.0912,-0.13686 0.24381,-0.21966 0.40821,-0.22266 z" transform="translate(238,111)" id="path25443"></path>
+    </g>
+  </g>
+</svg>

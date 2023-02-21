@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="503 588 20 20">
+  <g transform="translate(-243,336)" style="fill: #ffffff;" id="g21571" data-label="DA-26">
+    <rect style="fill: none; stroke-width: 1.627;" id="rect37443-3" width="18" height="18" x="771.99976" y="-300" transform="scale(1,-1)" data-label="frame"></rect>
+    <path id="rect21332" d="M 775.46875,284 C 774.66371,284 774,284.66371 774,285.46875 v 11.0625 c 0,0.80504 0.66371,1.46875 1.46875,1.46875 h 8.0625 C 784.33629,298 785,297.33629 785,296.53125 v -0.58203 c -1.68181,-0.24823 -3,-1.70468 -3,-3.44922 0,-1.74454 1.31819,-3.20099 3,-3.44922 v -3.58203 C 785,284.66371 784.33629,284 783.53125,284 Z M 775,285 h 9 v 3 h -9 z" style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linejoin: round; marker: none;"></path>
+    <path style="color: rgb(0, 0, 0); opacity: 0.6; fill: #ffffff; stroke-linejoin: round; marker: none;" d="m 785.5,295 c -1.37479,0 -2.5,-1.12521 -2.5,-2.5 0,-1.37479 1.12521,-2.5 2.5,-2.5 1.37479,0 2.5,1.12521 2.5,2.5 0,1.37479 -1.12521,2.5 -2.5,2.5 z" id="circle21336"></path>
+  </g>
+</svg>
