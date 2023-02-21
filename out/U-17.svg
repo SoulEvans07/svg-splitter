@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="323 408 20 20">
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="339 428 20 20">
   <g style="fill: #ffffff;" id="g23658-7-6" transform="translate(-1113,-80)" data-label="U-17">
-    <path id="path23654-6-8" transform="translate(0,-21)" style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linejoin: round; marker: none;" d="m 1456,538 v 7.5 c 0,0.27613 0.2239,0.49997 0.5,0.5 h 11 c 0.2761,-3e-5 0.5,-0.22387 0.5,-0.5 V 538 Z m 5,1 h 2 a 1.0001,1.0001 0 1 1 0,2 h -2 a 1.0001,1.0001 0 1 1 0,-2 z m -5.5,-6 c -0.2761,3e-5 -0.5,0.22387 -0.5,0.5 v 3 c 0,0.27613 0.2239,0.49997 0.5,0.5 h 13 c 0.2761,-3e-5 0.5,-0.22387 0.5,-0.5 v -3 c 0,-0.27613 -0.2239,-0.49997 -0.5,-0.5 z"></path>
+    <path id="path23654-6-8" transform="translate(0,-21)" style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linejoin: round;" d="m 1456,538 v 7.5 c 0,0.27613 0.2239,0.49997 0.5,0.5 h 11 c 0.2761,-3e-5 0.5,-0.22387 0.5,-0.5 V 538 Z m 5,1 h 2 a 1.0001,1.0001 0 1 1 0,2 h -2 a 1.0001,1.0001 0 1 1 0,-2 z m -5.5,-6 c -0.2761,3e-5 -0.5,0.22387 -0.5,0.5 v 3 c 0,0.27613 0.2239,0.49997 0.5,0.5 h 13 c 0.2761,-3e-5 0.5,-0.22387 0.5,-0.5 v -3 c 0,-0.27613 -0.2239,-0.49997 -0.5,-0.5 z"></path>
   </g>
 </svg>

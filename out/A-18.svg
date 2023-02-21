@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="343 8 20 20">
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="360 8 20 20">
   <g transform="matrix(-1,0,0,1,-135.99001,-1337)" id="g25915-9" style="fill: #ffffff;" data-label="A-18">
-    <path d="m -503.5,1348.5 h -2 v 2 h 2 z" style="fill: #ffffff; stroke: #ffffff; stroke-linecap: round; stroke-linejoin: round; marker: none;" id="path25851-1"></path>
-    <path id="path25853-8" d="m -498.49506,1361.4978 -2.00459,-2.0055 c -2.16266,-2.1636 -3.0003,-5.1361 -3.0003,-7.9852 l 0.01,-1.0071" style="opacity: 0.7; fill: none; stroke: #ffffff; stroke-linecap: round; stroke-linejoin: round; marker: none;"></path>
-    <path style="opacity: 0.7; fill: none; stroke: #ffffff; stroke-linecap: round; stroke-linejoin: round; marker: none;" d="m -511.5049,1361.4907 c 0,-2.8491 0.8375,-5.8217 3.0003,-7.9852 L -505.5,1350.5" id="path25855-4"></path>
+    <path d="m -503.5,1348.5 h -2 v 2 h 2 z" style="fill: #ffffff; stroke: #ffffff; stroke-linecap: round; stroke-linejoin: round;" id="path25851-1"></path>
+    <path id="path25853-8" d="m -498.49506,1361.4978 -2.00459,-2.0055 c -2.16266,-2.1636 -3.0003,-5.1361 -3.0003,-7.9852 l 0.01,-1.0071" style="opacity: 0.7; fill: none; stroke: #ffffff; stroke-linecap: round; stroke-linejoin: round;"></path>
+    <path style="opacity: 0.7; fill: none; stroke: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="m -511.5049,1361.4907 c 0,-2.8491 0.8375,-5.8217 3.0003,-7.9852 L -505.5,1350.5" id="path25855-4"></path>
     <g id="g25861-1" transform="translate(-47,-2)">
       <path id="path25857-8" style="fill: none; stroke: #ffffff; stroke-width: 1px; stroke-linecap: round; stroke-linejoin: round;" d="m -457.50994,1358.5 h -2 v 2 h 2 z"></path>
-      <path id="path25859-9" style="fill: none; stroke: #ffffff; stroke-linejoin: round; marker: none;" d="m -458.5,1358 v -3"></path>
+      <path id="path25859-9" style="fill: none; stroke: #ffffff; stroke-linejoin: round;" d="m -458.5,1358 v -3"></path>
     </g>
     <g transform="rotate(90,-479.5,1328.5)" id="g25873-3">
       <path d="m -457.50994,1359.5 h -2 v 2 h 2 z" style="fill: none; stroke: #ffffff; stroke-width: 1px; stroke-linecap: round; stroke-linejoin: round;" id="path25869-0"></path>
-      <path d="m -458.5,1359 v -3" style="fill: none; stroke: #ffffff; stroke-linejoin: round; marker: none;" id="path25871-3"></path>
+      <path d="m -458.5,1359 v -3" style="fill: none; stroke: #ffffff; stroke-linejoin: round;" id="path25871-3"></path>
     </g>
   </g>
 </svg>

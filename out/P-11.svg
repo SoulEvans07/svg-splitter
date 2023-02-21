@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="203 308 20 20">
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="213 323 20 20">
   <g id="g25449" style="fill: #ffffff;" transform="translate(624,-1280)" data-label="P-11">
     <path style="color: rgb(0, 0, 0); opacity: 0.7; fill: #ffffff; stroke-linecap: round;" d="m -406.5,1608 c -0.67616,-0.01 -0.67616,1.0096 0,1 h 11.99219 c 0.67616,0.01 0.67616,-1.0096 0,-1 z m 3.93164,3 c 0.18417,0.3108 0.32709,0.6451 0.42188,1 h 7.63867 c 0.67616,0.01 0.67616,-1.0096 0,-1 z m 0.42188,3 c -0.0948,0.3549 -0.23771,0.6892 -0.42188,1 h 8.06055 c 0.67616,0.01 0.67616,-1.0096 0,-1 z m -4.35352,3 c -0.67616,-0.01 -0.67616,1.0096 0,1 h 11.99219 c 0.67616,0.01 0.67616,-1.0096 0,-1 z" id="path25345"></path>
-    <circle style="fill: #ffffff; stroke: #ffffff; stroke-linecap: round; stroke-linejoin: round; marker: none;" id="circle25349" cx="-406" cy="-1613.0002" r="1.5" transform="scale(1,-1)"></circle>
+    <circle style="fill: #ffffff; stroke: #ffffff; stroke-linecap: round; stroke-linejoin: round;" id="circle25349" cx="-406" cy="-1613.0002" r="1.5" transform="scale(1,-1)"></circle>
   </g>
 </svg>

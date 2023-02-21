@@ -37,8 +37,8 @@ async function exportIcon(icon: SVGElement, fileName: string) {
 function calcCoords(icon: SVGElement) {
   const label = icon.getAttribute('data-label') || 'A-1';
   const [alpha, num] = label.split('-');
-  const x = origin.x + (Number(num) - 1) * size;
-  const y = origin.y + alphaToNum(alpha) * size;
+  const x = origin.x + (Number(num) - 1) * (size + 1);
+  const y = origin.y + alphaToNum(alpha) * (size + 1);
   return { x, y };
 }
 
@@ -90,6 +90,7 @@ const defaults = [
   { prop: 'stroke-dasharray', value: 'none' },
   { prop: 'stroke-dashoffset', value: 0 },
   { prop: 'stroke-opacity', value: 1 },
+  { prop: 'marker', value: 'none' },
 ];
 
 const toRemove = [

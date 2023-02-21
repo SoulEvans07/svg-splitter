@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="483 568 20 20">
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="507 596 20 20">
   <g style="" id="g28909-7" transform="rotate(180,535.5,631.5)" data-label="CA-25">
-    <path style="opacity: 0.6; fill: #ffffff; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; marker: none;" d="m 7,654 v 8 c 0,0.54532 0.45468,1 1,1 h 12 c 0.54532,0 1,-0.45468 1,-1 v -8 h -1 v 8 H 8 v -8 z" transform="translate(540,1)" id="path28905-8"></path>
-    <path style="fill: #ffffff; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; marker: none;" d="m 27,680 v 3 c 0,0.54532 0.45468,1 1,1 h 12 c 0.54532,0 1,-0.45468 1,-1 v -3 H 40 28 Z m 1,1 h 2 v 2 h -2 z" transform="matrix(1,0,0,-1,520,1334)" id="path28907-4"></path>
+    <path style="opacity: 0.6; fill: #ffffff; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round;" d="m 7,654 v 8 c 0,0.54532 0.45468,1 1,1 h 12 c 0.54532,0 1,-0.45468 1,-1 v -8 h -1 v 8 H 8 v -8 z" transform="translate(540,1)" id="path28905-8"></path>
+    <path style="fill: #ffffff; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round;" d="m 27,680 v 3 c 0,0.54532 0.45468,1 1,1 h 12 c 0.54532,0 1,-0.45468 1,-1 v -3 H 40 28 Z m 1,1 h 2 v 2 h -2 z" transform="matrix(1,0,0,-1,520,1334)" id="path28907-4"></path>
   </g>
 </svg>

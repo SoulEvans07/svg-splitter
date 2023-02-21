@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="263 228 20 20">
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="276 239 20 20">
   <g style="fill: #ffffff;" id="g22036" transform="translate(-21)" data-label="L-14">
     <g transform="matrix(-1,0,0,1,508.993,-42.0001)" id="g23159" style="fill:#ffffff">
-      <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linecap: round; stroke-linejoin: round; marker: none;" d="m 286.49219,242 a 0.50005,0.50005 0 0 0 -0.5,0.5 L 286,255.50781 a 0.50005,0.50005 0 0 0 0.5,0.5 h 6 a 0.50005,0.50005 0 0 0 0.5,-0.5 V 242.5 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z m 0.5,1 h 4.72656 l -4.7207,10.22852 z M 292,244.77344 v 10.23437 h -4.72266 z" transform="matrix(-1,0,0,1,487.993,42.0001)" id="path23171"></path>
-      <path style="color: rgb(0, 0, 0); opacity: 0.5; fill: #ffffff; stroke-linejoin: round; marker: none;" d="m 202.99219,284 v 1 H 208 l -0.008,12.00781 -4.99805,-0.008 -0.002,1 5.5,0.008 a 0.50005,0.50005 0 0 0 0.5,-0.5 L 209,284.5 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z" id="path21181"></path>
+      <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="m 286.49219,242 a 0.50005,0.50005 0 0 0 -0.5,0.5 L 286,255.50781 a 0.50005,0.50005 0 0 0 0.5,0.5 h 6 a 0.50005,0.50005 0 0 0 0.5,-0.5 V 242.5 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z m 0.5,1 h 4.72656 l -4.7207,10.22852 z M 292,244.77344 v 10.23437 h -4.72266 z" transform="matrix(-1,0,0,1,487.993,42.0001)" id="path23171"></path>
+      <path style="color: rgb(0, 0, 0); opacity: 0.5; fill: #ffffff; stroke-linejoin: round;" d="m 202.99219,284 v 1 H 208 l -0.008,12.00781 -4.99805,-0.008 -0.002,1 5.5,0.008 a 0.50005,0.50005 0 0 0 0.5,-0.5 L 209,284.5 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z" id="path21181"></path>
     </g>
   </g>
 </svg>

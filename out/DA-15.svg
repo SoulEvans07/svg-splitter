@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="283 588 20 20">
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="297 617 20 20">
   <g style="fill: #ffffff;" id="g22365" transform="translate(-1.85367e-6,-26)" data-label="DA-15">
     <rect style="fill: none; stroke-width: 1.627;" id="rect21004-5-8-0-91" width="18" height="18" x="297.99991" y="-662" transform="scale(1,-1)" data-label="frame"></rect>
-    <path id="path22215" d="m 302,649 v 8 h 4 v -8 z m 1,1 h 2 v 1 h -2 z m 0,2 h 2 v 1 h -2 z m 0,2 h 2 v 1 h -2 z" style="fill: #ffffff; stroke-linecap: round; marker: none;"></path>
-    <path id="rect21916" d="m 301.5,647 c -0.82235,0 -1.5,0.67765 -1.5,1.5 v 9 c 0,0.82235 0.67765,1.5 1.5,1.5 h 11 c 0.82235,0 1.5,-0.67765 1.5,-1.5 v -9 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z m -0.5,1 h 12 v 10 h -12 z" style="color: rgb(0, 0, 0); opacity: 0.6; fill: #ffffff; stroke-linecap: square; stroke-linejoin: round; marker: none;"></path>
+    <path id="path22215" d="m 302,649 v 8 h 4 v -8 z m 1,1 h 2 v 1 h -2 z m 0,2 h 2 v 1 h -2 z m 0,2 h 2 v 1 h -2 z" style="fill: #ffffff; stroke-linecap: round;"></path>
+    <path id="rect21916" d="m 301.5,647 c -0.82235,0 -1.5,0.67765 -1.5,1.5 v 9 c 0,0.82235 0.67765,1.5 1.5,1.5 h 11 c 0.82235,0 1.5,-0.67765 1.5,-1.5 v -9 c 0,-0.82235 -0.67765,-1.5 -1.5,-1.5 z m -0.5,1 h 12 v 10 h -12 z" style="color: rgb(0, 0, 0); opacity: 0.6; fill: #ffffff; stroke-linecap: square; stroke-linejoin: round;"></path>
   </g>
 </svg>

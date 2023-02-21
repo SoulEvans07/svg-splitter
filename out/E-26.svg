@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="503 88 20 20">
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="528 92 20 20">
   <g transform="translate(84,-21)" id="g29069" style="" data-label="E-26">
     <g id="g29057">
-      <path d="m 454,117 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6" id="path28993" style="fill: none; stroke: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; marker: none;"></path>
+      <path d="m 454,117 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6" id="path28993" style="fill: none; stroke: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;"></path>
       <g id="g29030">
-        <circle style="fill: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; marker: none;" id="path29001" cx="448" cy="123" r="1"></circle>
-        <circle r="1" cy="120" cx="448.80383" id="circle29003" style="fill: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; marker: none;"></circle>
-        <circle style="fill: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; marker: none;" id="circle29005" cx="451" cy="117.80385" r="1"></circle>
-        <circle style="fill: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; marker: none;" id="circle29014" cx="448.80383" cy="-126" r="1" transform="scale(1,-1)"></circle>
-        <circle r="1" cy="-128.19615" cx="451" id="circle29016" style="fill: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; marker: none;" transform="scale(1,-1)"></circle>
+        <circle style="fill: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;" id="path29001" cx="448" cy="123" r="1"></circle>
+        <circle r="1" cy="120" cx="448.80383" id="circle29003" style="fill: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;"></circle>
+        <circle style="fill: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;" id="circle29005" cx="451" cy="117.80385" r="1"></circle>
+        <circle style="fill: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;" id="circle29014" cx="448.80383" cy="-126" r="1" transform="scale(1,-1)"></circle>
+        <circle r="1" cy="-128.19615" cx="451" id="circle29016" style="fill: #ffffff; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round;" transform="scale(1,-1)"></circle>
       </g>
     </g>
     <path id="path16341-3-5" style="opacity: 0.99; fill: none; stroke: #ffffff; stroke-linecap: round;" d="m 456.5,123.5 -3,-4e-5 V 120.5"></path>

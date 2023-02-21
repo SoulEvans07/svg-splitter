@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="463 568 20 20">
+<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="486 596 20 20">
   <g id="g3791" data-label="CA-24">
-    <path id="path28911-6" d="m 489,604 v 8 c 0,0.54532 0.45468,1 1,1 h 12 c 0.54532,0 1,-0.45468 1,-1 v -8 h -1 v 8 h -12 v -8 z" style="opacity: 0.6; fill: #ffffff; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; marker: none;"></path>
-    <path style="fill: #ffffff; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round; marker: none;" d="m 490,599 c -0.54532,0 -1,0.45468 -1,1 v 3 h 1 12 1 v -3 c 0,-0.54532 -0.45468,-1 -1,-1 z m 0,1 h 2 v 2 h -2 z" id="path28913-4"></path>
+    <path id="path28911-6" d="m 489,604 v 8 c 0,0.54532 0.45468,1 1,1 h 12 c 0.54532,0 1,-0.45468 1,-1 v -8 h -1 v 8 h -12 v -8 z" style="opacity: 0.6; fill: #ffffff; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round;"></path>
+    <path style="fill: #ffffff; stroke-width: 3; stroke-linecap: round; stroke-linejoin: round;" d="m 490,599 c -0.54532,0 -1,0.45468 -1,1 v 3 h 1 12 1 v -3 c 0,-0.54532 -0.45468,-1 -1,-1 z m 0,1 h 2 v 2 h -2 z" id="path28913-4"></path>
   </g>
 </svg>
