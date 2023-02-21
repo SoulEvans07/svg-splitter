@@ -54,7 +54,7 @@ function alphaToNum(alpha: string) {
 
 function serializeIconSvg(icon: SVGElement, { x, y }: { x: number; y: number }) {
   return formatXml(
-    `<svg xmlns="http://www.w3.org/2000/svg" style="background: #808080" height="64" width="64" viewBox="${x} ${y} ${size} ${size}">${icon.outerHTML}</svg>`,
+    `<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="${x} ${y} ${size} ${size}">${icon.outerHTML}</svg>`,
     {
       indentation: '  ',
     }
