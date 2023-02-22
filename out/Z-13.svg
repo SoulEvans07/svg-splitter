@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="255 533 20 20">
-  <g id="g7627" style="fill: #ffffff;" data-label="Z-13">
-    <g transform="matrix(1,0,0,-1,-42,918)" id="g4806" style="opacity:0.6;fill:#ffffff">
-      <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linejoin: round;" d="m 300.5,375 a 0.50005,0.50005 0 0 0 -0.5,0.5 v 3 a 0.50005,0.50005 0 0 0 0.5,0.5 h 5.5 v -1 h -5 v -2 h 5 v -1 z m 8.5,0 v 1 h 2 v 2 h -2 v 1 h 2.5 a 0.50005,0.50005 0 0 0 0.5,-0.5 v -3 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z" id="path4801"></path>
-      <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linejoin: round;" d="m 302.5,378 a 0.50005,0.50005 0 0 0 -0.5,0.5 v 3 a 0.50005,0.50005 0 0 0 0.5,0.5 h 3.5 v -1 h -3 v -2 h 3 v -1 z m 6.5,0 v 1 h 4 v 2 h -4 v 1 h 4.5 a 0.50005,0.50005 0 0 0 0.5,-0.5 v -3 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z" id="path4804"></path>
-    </g>
-    <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="m 265,536 v 13.96484 h 1 V 536 Z m -4.5,10 c -0.27613,3e-5 -0.49997,0.22387 -0.5,0.5 v 3 c 3e-5,0.27613 0.22387,0.49997 0.5,0.5 h 3.5 v -4 z m 6.5,0 v 4 h 4.5 c 0.27613,-3e-5 0.49997,-0.22387 0.5,-0.5 v -3 c -3e-5,-0.27613 -0.22387,-0.49997 -0.5,-0.5 z" id="path4817"></path>
-  </g>
-</svg>

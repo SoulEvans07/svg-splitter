@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="24 470 20 20">
-  <g transform="matrix(-1,0,0,1,1290,765)" style="opacity: 0.99; fill: #ffffff;" id="g8530-0-8-3" data-label="W-2">
-    <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="m 1258.4766,-286 c -0.1708,0.008 -0.3255,0.10335 -0.4102,0.25195 l -4,7 c -0.1903,0.33312 0.05,0.74758 0.4336,0.74805 h 8 c 0.3836,-4.7e-4 0.6239,-0.41493 0.4336,-0.74805 l -4,-7 c -0.093,-0.16311 -0.2694,-0.26042 -0.457,-0.25195 z" id="path8523-4-0-3"></path>
-    <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="m 1253.5,-289 c -0.8225,0 -1.5,0.67749 -1.5,1.5 0,0.82251 0.6775,1.5 1.5,1.5 0.8225,0 1.5,-0.67749 1.5,-1.5 0,-0.82251 -0.6775,-1.5 -1.5,-1.5 z" id="ellipse8525-5-4-7"></path>
-    <path style="color: rgb(0, 0, 0); fill: #ffffff; fill-rule: evenodd; stroke-linecap: round; stroke-linejoin: round;" d="M 27.5,11 A 0.50005,0.50005 0 0 0 27,11.5 v 10.851562 l 1,-1.75 V 12 h 12 v 12 h -3.099609 c 0.122248,0.339531 0.117057,0.686553 0.0039,1 H 40.5 A 0.50005,0.50005 0 0 0 41,24.5 v -13 A 0.50005,0.50005 0 0 0 40.5,11 Z" transform="matrix(-1,0,0,1,1290,-303)" id="path8528-7-3-1"></path>
-  </g>
-</svg>

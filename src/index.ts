@@ -3,6 +3,8 @@ import fs from 'fs/promises';
 import { JSDOM } from 'jsdom';
 import formatXml from 'xml-formatter';
 
+import { names } from './names';
+
 const origin = { x: 3, y: 8 };
 const size = 20;
 
@@ -23,15 +25,27 @@ async function main() {
   icons.forEach(child => {
     const icon = child as SVGElement;
     cleanup(icon);
-    exportIcon(icon, icon.getAttribute('data-label') || 'unknown');
+    exportIcon(icon, icon.getAttribute('data-label') as keyof typeof names);
   });
 }
 
-async function exportIcon(icon: SVGElement, fileName: string) {
+async function exportIcon(icon: SVGElement, label: keyof typeof names) {
   const coords = calcCoords(icon);
   const output = serializeIconSvg(icon, coords);
+  const fileName = labelToName(label);
   const filePath = path.join('./out', `${fileName}.svg`);
   await fs.writeFile(filePath, output);
+}
+
+function labelToName(label: string) {
+  const [alpha, num] = label.split('-');
+  const group = names[alpha];
+  if (!group) return label;
+
+  const name = group[Number(num)];
+  if (!name) return label;
+
+  return `${label}-${name}`.toLowerCase().replace(/_/g, '-');
 }
 
 function calcCoords(icon: SVGElement) {
@@ -79,6 +93,7 @@ function cleanup(elem: SVGElement) {
 }
 
 const defaults = [
+  { prop: 'color', value: 'rgb(0, 0, 0)' },
   { prop: 'opacity', value: 1 },
   { prop: 'fill-opacity', value: 1 },
   { prop: 'fill-rule', value: 'nonzero' },

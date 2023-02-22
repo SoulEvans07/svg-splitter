@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="255 134 20 20">
-  <g transform="translate(252.007,707.993)" style="fill: #ffffff;" id="g24277-2" data-label="G-13">
-    <g transform="translate(-252.007,-707.992)" style="fill: #ffffff;" id="g26501-5">
-      <path id="path26499-8" d="m 258.49962,136.9993 c -0.27613,3e-5 -0.49997,0.22387 -0.5,0.5 v 3 c 3e-5,0.27613 0.22387,0.49997 0.5,0.5 h 3 c 0.27613,-3e-5 0.49997,-0.22387 0.5,-0.5 v -3 c -3e-5,-0.27613 -0.22387,-0.49997 -0.5,-0.5 z" style="color: rgb(0, 0, 0); fill: #ffffff; fill-rule: evenodd; stroke-linecap: round; stroke-linejoin: round;"></path>
-    </g>
-    <path id="path26503-3" d="m 10.955781,-569.99288 v 1 h 2.037109 v 5 H 7.9928902 v -1.99219 h -1 v 8.49219 a 0.50005,0.50005 0 0 0 0.5,0.5 H 13.49289 a 0.50005,0.50005 0 0 0 0.5,-0.5 v -5.5 h 5.5 a 0.50005,0.50005 0 0 0 0.5,-0.5 v -6 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z m 3.037109,1 h 5 v 5 h -5 z m -5.9999998,6 H 12.99289 v 5 H 7.9928902 Z" style="color: rgb(0, 0, 0); opacity: 0.55; fill: #ffffff; stroke-width: 1px; stroke-linejoin: round;"></path>
-  </g>
-</svg>

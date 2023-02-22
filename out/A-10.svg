@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="192 8 20 20">
-  <g id="g13337" style="opacity: 0.99; fill: #ffffff;" transform="matrix(-1,0,0,1,1458,302.99979)" data-label="A-10">
-    <path style="color: rgb(0, 0, 0); opacity: 0.3; fill: #ffffff; fill-rule: evenodd; stroke-linecap: round; stroke-linejoin: round;" d="m 1262.5,-278.49979 h -13 v -13 h 13 v 13" id="path14450"></path>
-    <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="m 1257.5039,-287 c -0.191,-10e-4 -0.3661,0.1063 -0.4512,0.27734 l -3,6 c -0.1652,0.33223 0.076,0.72231 0.4473,0.72266 h 6 c 0.371,-3.5e-4 0.6125,-0.39043 0.4473,-0.72266 l -3,-6 c -0.084,-0.16853 -0.2552,-0.27571 -0.4434,-0.27734 z" id="path13331"></path>
-    <path style="color: rgb(0, 0, 0); fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="m 1252.5,-289 c -0.8225,0 -1.5,0.67749 -1.5,1.5 0,0.82251 0.6775,1.5 1.5,1.5 0.8225,0 1.5,-0.67749 1.5,-1.5 0,-0.82251 -0.6775,-1.5 -1.5,-1.5 z" id="ellipse13333"></path>
-    <path style="color: rgb(0, 0, 0); fill: #ffffff; fill-rule: evenodd; stroke-linecap: round; stroke-linejoin: round;" d="m 1249.5,-292 a 0.50005,0.50005 0 0 0 -0.5,0.5 v 13 a 0.50005,0.50005 0 0 0 0.5,0.5 h 12.9199 a 0.50005,0.50005 0 0 0 0.4043,-0.11328 0.50005,0.50005 0 0 0 0,-0.002 0.50005,0.50005 0 0 0 0.033,-0.0312 0.50005,0.50005 0 0 0 0,-0.004 0.50005,0.50005 0 0 0 0.031,-0.0332 0.50005,0.50005 0 0 0 0,-0.004 0.50005,0.50005 0 0 0 0.1035,-0.39453 V -291.5 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z m 0.5,1 h 12 v 12 h -12 z" id="path13335"></path>
-  </g>
-</svg>
