@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="507 260 20 20">
+  <g style="fill: #ffffff;" id="mod-simpledeform" transform="translate(-1.85367e-6,-21)" data-label="M-25">
+    <path style="fill: #ffffff; stroke-linecap: round; stroke-linejoin: round; stroke-dashoffset: 7.40019;" d="m 521.5,287 c -5.3,0 -9.5,4.7037 -9.5,9.5 v 1 a 0.50005,0.50005 0 0 0 0.5,0.5 h 3 a 0.50005,0.50005 0 0 0 0.5,-0.5 v -1 c 0,-1.05 0.68155,-2.47832 1.73828,-3.59375 C 518.79501,291.79082 520.19444,291 521.5,291 h 1 a 0.50005,0.50005 0 0 0 0.5,-0.5 v -3 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z m 0,1 h 0.5 v 2 h -0.5 c -1.69444,0 -3.29501,0.95918 -4.48828,2.21875 C 515.81845,293.47832 515,295.05 515,296.5 v 0.5 h -2 v -0.5 c 0,-4.2037 3.8,-8.5 8.5,-8.5 z" id="path21998"></path>
+    <path style="opacity: 0.5; fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="m 512.5,263 c -0.27613,3e-5 -0.49997,0.22387 -0.5,0.5 v 6.60938 c 0.29756,-0.51189 0.62592,-1.00687 1,-1.46876 V 264 h 2 v 2.71875 c 0.32103,-0.24305 0.65292,-0.47168 1,-0.67969 V 263.5 c -3e-5,-0.27613 -0.22387,-0.49997 -0.5,-0.5 z" transform="translate(1.85367e-6,21)" id="path22786"></path>
+  </g>
+</svg>

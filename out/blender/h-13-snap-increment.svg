@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="255 155 20 20">
+  <g style="fill: #ffffff;" id="snap-increment" transform="rotate(180,339.0035,333)" data-label="H-13">
+    <g transform="matrix(1,0,0,-1,0,999)" style="opacity:0.7;fill:#ffffff" id="g28071-5">
+      <path id="path28067-0" transform="matrix(-1,0,0,1,358.007,333)" d="m -61.992188,164 v 7 h 1 v -3 h 2 v 1 h 1 v -1 h 2 v 3 h 1 v -3 h 2 v 1 h 1 v -1 h 2 v 3 h 1 v -7 h -1 v 3 h -2 v -1 h -1 v 1 h -2 v -3 h -1 v 3 h -2 v -1 h -1 v 1 h -2 v -3 z" style="fill: #ffffff; stroke-width: 1px; stroke-linejoin: round;"></path>
+    </g>
+    <path id="path28073-8" d="m 406.5,504 c -0.27613,3e-5 -0.49997,0.22387 -0.5,0.5 v 3 c 3e-5,0.27613 0.22387,0.49997 0.5,0.5 h 3 c 0.27613,-3e-5 0.49997,-0.22387 0.5,-0.5 v -3 c -3e-5,-0.27613 -0.22387,-0.49997 -0.5,-0.5 z" style="fill: #ffffff; fill-rule: evenodd; stroke-linejoin: round;"></path>
+  </g>
+</svg>

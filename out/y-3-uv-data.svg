@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="45 512 20 20">
-  <g style="fill: #ffffff;" id="g12761" transform="translate(72)" data-label="Y-3">
-    <path style="fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="m 51.5,515 a 0.50005,0.50005 0 0 0 -0.353516,0.14648 l -3,3 A 0.50005,0.50005 0 0 0 48,518.5 v 10 a 0.50005,0.50005 0 0 0 0.5,0.5 h 10 a 0.50005,0.50005 0 0 0 0.353516,-0.14648 l 3,-3 A 0.50005,0.50005 0 0 0 62,525.5 v -10 A 0.50005,0.50005 0 0 0 61.5,515 Z m 0.207031,1 H 61 v 9.29297 L 58.292969,528 H 49 v -9.29297 z M 52,519 v 2 h 2 v -2 z m 2,2 v 2 h 2 v -2 z m 2,0 h 2 v -2 h -2 z m 0,2 v 2 h 2 v -2 z m 0,2 h -2 v 2 h 2 z m -2,0 v -2 h -2 v 2 z m -2,0 h -2 v 2 h 2 z m 0,-2 v -2 h -2 v 2 z" transform="translate(-72)" id="path12740"></path>
-  </g>
-</svg>

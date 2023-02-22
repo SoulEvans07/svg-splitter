@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="108 344 20 20">
+  <g id="force-charge" style="" data-label="Q-6">
+    <path style="opacity: 0.6; fill: #ffffff; stroke-width: 0.8; stroke-linecap: square; stroke-linejoin: round;" d="m 121.47461,347 a 3.4883757,3.4883673 0 0 0 -3.48828,3.48828 3.4883757,3.4883673 0 0 0 3.48828,3.48828 3.4883757,3.4883673 0 0 0 3.48828,-3.48828 A 3.4883757,3.4883673 0 0 0 121.47461,347 Z m -2.48047,3 H 124 v 1.01367 h -5.00586 z" id="circle23728"></path>
+    <g id="g106130" style="">
+      <path style="fill: #ffffff; stroke-width: 0.8; stroke-linecap: square; stroke-linejoin: round;" d="m 114.49609,354 a 3.4824922,3.4824822 0 0 0 -3.48242,3.48242 3.4824922,3.4824822 0 0 0 3.48242,3.48242 3.4824922,3.4824822 0 0 0 3.48243,-3.48242 A 3.4824922,3.4824822 0 0 0 114.49609,354 Z m -0.50586,0.98633 h 1.01368 v 1.98633 H 117 v 1.01367 h -1.99609 v 1.98633 h -1.01368 v -1.98633 h -1.99609 v -1.01367 h 1.99609 z" id="circle23722"></path>
+    </g>
+  </g>
+</svg>

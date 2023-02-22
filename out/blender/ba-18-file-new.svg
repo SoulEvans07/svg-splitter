@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="360 575 20 20">
+  <g style="fill: #ffffff;" id="file-new" transform="translate(109,-110)" data-label="BA-18">
+    <path id="path9906-8-8" d="m 264.5,688 c -1.933,0 -3.5,1.567 -3.5,3.5 0,1.933 1.567,3.5 3.5,3.5 1.933,0 3.5,-1.567 3.5,-3.5 0,-1.933 -1.567,-3.5 -3.5,-3.5 z m -0.5,1 h 1 v 2 h 2 v 1 h -2 v 2 h -1 v -2 h -2 v -1 h 2 z" style="fill: #ffffff; stroke-width: 0.8; stroke-linecap: round; stroke-linejoin: round;"></path>
+    <g id="g9914-5" transform="translate(100,195.999)" style="opacity: 0.6; fill: #ffffff; stroke: #ffffff; stroke-width: 0.8; stroke-linecap: round; stroke-linejoin: round;">
+      <path style="fill: #ffffff; fill-rule: evenodd; stroke-width: 1px; stroke-linecap: round; stroke-linejoin: round;" d="m 366.48438,579 c -0.12718,0.004 -0.248,0.0564 -0.3379,0.14648 l -3,3 c -0.31479,0.315 -0.0918,0.85335 0.35352,0.85352 h 3 c 0.27613,-3e-5 0.49997,-0.22387 0.5,-0.5 V 580 h 1.5 c 0.67616,0.01 0.67616,-1.00956 0,-1 h -2 v 0.002 c -0.005,0 -0.0101,-0.002 -0.0156,-0.002 z M 363,584 v 7.5 c 3e-5,0.27613 0.22387,0.49997 0.5,0.5 h 10 c 0.27613,-3e-5 0.49997,-0.22387 0.5,-0.5 v -5 c 0.01,-0.67616 -1.00956,-0.67616 -1,0 v 4.5 h -9 v -7 z" transform="translate(-209,-85.9994)" id="path9910-5"></path>
+    </g>
+  </g>
+</svg>

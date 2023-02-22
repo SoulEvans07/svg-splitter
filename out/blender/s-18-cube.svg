@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="360 386 20 20">
+  <g id="cube" transform="translate(-504,167.99288)" style="fill: #ffffff;" data-label="S-18">
+    <path style="fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="m 366.5,389 a 0.50005,0.50005 0 0 0 -0.35352,0.14648 l -3,3 A 0.50005,0.50005 0 0 0 363,392.5 v 10 a 0.50005,0.50005 0 0 0 0.5,0.5 h 10 a 0.50005,0.50005 0 0 0 0.35352,-0.14648 l 3,-3 A 0.50005,0.50005 0 0 0 377,399.5 v -10 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z m 0.20703,1 h 8.58008 l -1.99414,2 h -8.58594 z M 376,390.70117 v 8.5918 l -2,2 v -8.58789 z M 364,393 h 9 v 9 h -9 z" transform="translate(504,-167.99288)" id="path22960-9-5"></path>
+    <path style="opacity: 0.5; fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="M 870.49219,220.99219 A 0.50005,0.50005 0 0 0 870,221.5 v 9.79297 l -2.85352,2.86133 a 0.50005,0.50005 0 1 0 0.70704,0.70508 L 870.70703,232 H 880.5 a 0.50005,0.50005 0 1 0 0,-1 H 871 v -9.5 a 0.50005,0.50005 0 0 0 -0.50781,-0.50781 z" id="path23055-1-8"></path>
+  </g>
+</svg>

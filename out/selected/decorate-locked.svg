@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="360 449 20 20">
+  <g id="decorate-locked" style="fill: #ffffff;" transform="translate(696,793)" data-label="V-18">
+    <g id="g20623" transform="translate(-740,-750)" style="fill: #ffffff;">
+      <path id="path20621" transform="translate(594,-43)" d="m -179.5,453 c -1.92707,0 -3.5,1.57293 -3.5,3.5 v 1.5 h -0.5 c -0.27613,3e-5 -0.49997,0.22387 -0.5,0.5 v 5 c 3e-5,0.27613 0.22387,0.49997 0.5,0.5 h 8 c 0.27613,-3e-5 0.49997,-0.22387 0.5,-0.5 v -5 c -3e-5,-0.27613 -0.22387,-0.49997 -0.5,-0.5 h -0.5 v -1.5 c 0,-1.92707 -1.57293,-3.5 -3.5,-3.5 z m 0,1 c 1.38663,0 2.5,1.11337 2.5,2.5 v 1.5 h -5 v -1.5 c 0,-1.38663 1.11337,-2.5 2.5,-2.5 z m -0.5,6 h 1 v 1 1 h -1 v -1 z" style="fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;"></path>
+    </g>
+  </g>
+</svg>

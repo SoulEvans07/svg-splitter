@@ -4,7 +4,8 @@
   "main": "src/index.js",
   "license": "Beerware",
   "scripts": {
-    "start": "ts-node src/index.ts"
+    "start": "ts-node src/index.ts",
+    "prettier": "prettier --write ."
   },
   "dependencies": {
     "date-fns": "^2.29.3",

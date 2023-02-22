@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="276 617 20 20">
+  <g id="radiobut-on" style="" data-label="DA-14">
+    <path style="fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="m 286,622 c -2.7555,0 -5,2.2445 -5,5 0,2.7555 2.2445,5 5,5 2.7555,0 5,-2.2445 5,-5 0,-2.7555 -2.2445,-5 -5,-5 z" id="circle13982"></path>
+    <rect style="fill: none; stroke-width: 1.627;" id="frame" width="18" height="18" x="276.99994" y="-636" transform="scale(1,-1)" data-label="frame"></rect>
+  </g>
+</svg>

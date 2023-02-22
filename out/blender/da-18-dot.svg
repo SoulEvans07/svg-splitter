@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="360 617 20 20">
+  <g id="dot" style="" data-label="DA-18">
+    <path style="fill: #ffffff; stroke-linecap: round; stroke-linejoin: round;" d="m 370,625 c -1.09865,0 -2,0.90135 -2,2 0,1.09865 0.90135,2 2,2 1.09865,0 2,-0.90135 2,-2 0,-1.09865 -0.90135,-2 -2,-2 z" id="circle14040"></path>
+    <rect style="fill: none; stroke-width: 1.627;" id="frame" width="18" height="18" x="360.99988" y="-636" transform="scale(1,-1)" data-label="frame"></rect>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64" viewBox="276 365 20 20">
+  <g id="curve-path" style="" data-label="R-14">
+    <path style="fill: #ffffff; stroke-linecap: round; stroke-linejoin: round; stroke-dashoffset: 7.4;" d="m 292.49023,367.99609 a 0.50005,0.50005 0 0 0 -0.34375,0.15039 l -10,10 a 0.50005,0.50005 0 1 0 0.70704,0.70704 l 10,-10 a 0.50005,0.50005 0 0 0 -0.36329,-0.85743 z" id="path14294"></path>
+    <g id="g98795" style="">
+      <path style="opacity: 0.7; fill: #ffffff; stroke-linecap: round; stroke-linejoin: round; stroke-dashoffset: 7.4;" d="m 289.5,368 a 0.50005,0.50005 0 1 0 0,1 h 2.5 v 2.5 a 0.50005,0.50005 0 1 0 1,0 v -3 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z m -5,5 a 0.50005,0.50005 0 1 0 0,1 h 2.5 v 2.5 a 0.50005,0.50005 0 1 0 1,0 v -3 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z m -5,5 a 0.50005,0.50005 0 1 0 0,1 h 2.5 v 2.5 a 0.50005,0.50005 0 1 0 1,0 v -3 a 0.50005,0.50005 0 0 0 -0.5,-0.5 z" id="path13250"></path>
+    </g>
+  </g>
+</svg>
