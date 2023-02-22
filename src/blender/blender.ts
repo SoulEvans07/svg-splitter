@@ -36,7 +36,7 @@ async function exportIcon(icon: SVGElement, label: keyof typeof names) {
   await fs.writeFile(filePath, output);
 
   if (select.includes(label)) {
-    const selectPath = path.join('./out/selected', `${labelToName(label)}.svg`);
+    const selectPath = path.join('./out/blender/selected', `${labelToName(label)}.svg`);
     await fs.writeFile(selectPath, output);
   }
 }
