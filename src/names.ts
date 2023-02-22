@@ -119,15 +119,12 @@ export const names: Record<string, Record<number, string>> = {
     13: 'AXIS_SIDE',
     14: 'AXIS_FRONT',
     15: 'AXIS_TOP',
-    16: 'F-16', // TODO
-    17: 'F-17', // TODO
-    18: 'F-18', // TODO
-    19: 'F-19', // TODO
+    16: 'LOCK_ORIENTATION',
+    17: 'ROTATE',
+    18: 'BOID',
+    19: 'DEPTH',
     20: 'DOT_EMPTY',
     21: 'DOT_FULL',
-
-    // 'LAYER_USED',
-    // 'LAYER_ACTIVE',
   },
   G: {
     1: 'COPYDOWN',
@@ -187,7 +184,7 @@ export const names: Record<string, Record<number, string>> = {
     1: 'VERTEXSEL',
     2: 'EDGESEL',
     3: 'FACESEL',
-    4: 'I-4', // TODO
+    4: 'PIVOT_GROUP',
     5: 'CURSOR',
     6: 'PIVOT_BOUNDBOX',
     7: 'PIVOT_CURSOR',
@@ -527,7 +524,7 @@ export const names: Record<string, Record<number, string>> = {
     7: 'MOUSE_RMB_DRAG',
     8: 'MEMORY',
     9: 'PRESET_NEW',
-    10: 'V-10', // TODO
+    10: 'INPUT_FIELD',
     11: 'DECORATE',
     12: 'DECORATE_KEYFRAME',
     13: 'DECORATE_ANIMATE',
@@ -569,7 +566,7 @@ export const names: Record<string, Record<number, string>> = {
     21: 'GROUP_VCOL',
     22: 'GROUP_UVS',
     23: 'FACE_MAPS',
-    24: 'W-24', // TODO
+    24: 'CLAPPERBOARD_PLAY',
     25: 'RNA',
     26: 'RNA_ADD',
   },
